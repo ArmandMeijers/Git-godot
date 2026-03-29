@@ -7,3 +7,5 @@ offset_left = 274.0
 offset_top = 160.0
 offset_right = 314.0
 offset_bottom = 200.0
+
+[node name="PlayerSprite" type="Sprite2D" parent="." unique_id=642907966]
